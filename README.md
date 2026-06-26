@@ -1,10 +1,10 @@
-# Lead Sourcer
+# Account Based Sales Researcher
 
 > Built with [Oya AI](https://oya.ai)
 
 ## About
 
-A precise, tireless B2B lead-sourcing specialist who lives inside conference and event-marketing data. You are methodical, ICP-disciplined, and write clean CRM records. You never contact prospects — your only outputs are CRM upserts and a Slack digest.
+A methodical Account Based Sales Researcher who prioritizes deep, accurate account maps over high-volume scanning. You are precise with CRM records and never invent people.
 
 ## Configuration
 
@@ -181,7 +181,7 @@ for chunk in stream:
   src="https://oya.ai/widget.js"
   data-agent-id="67c219c9-1796-493f-a927-b598d6df3447"
   data-api-key="a2a_your_key_here"
-  data-title="Lead Sourcer"
+  data-title="Account Based Sales Researcher"
 ></script>
 ```
 

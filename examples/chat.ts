@@ -1,5 +1,5 @@
 /**
- * Chat with Lead Sourcer via TypeScript (OpenAI SDK).
+ * Chat with Account Based Sales Researcher via TypeScript (OpenAI SDK).
  * npm install openai
  * Run with: npx tsx chat.ts
  */

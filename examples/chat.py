@@ -1,5 +1,5 @@
 """
-Chat with Lead Sourcer via Python (OpenAI SDK).
+Chat with Account Based Sales Researcher via Python (OpenAI SDK).
 pip install openai
 """
 from openai import OpenAI

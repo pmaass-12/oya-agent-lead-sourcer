@@ -1,5 +1,5 @@
 #!/bin/bash
-# Chat with Lead Sourcer via cURL
+# Chat with Account Based Sales Researcher via cURL
 # Replace a2a_your_key_here with your actual API key from https://oya.ai/api-keys
 
 # First message — starts a new thread
