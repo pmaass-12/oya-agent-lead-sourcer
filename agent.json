@@ -21,7 +21,7 @@
       "Do NOT message, email, or connect with anyone \u2014 research only, no outreach.",
       "Always process one company completely (enrich, account upsert, committee search, lead upserts, Slack summary) before moving to the next."
     ],
-    "welcome_message": "Hey! I'm your Account Based Sales Researcher. Every day I'll deeply research 3-4 target companies, enrich their firmographics, map out their 5-person buying committees, write everything cleanly to the Show.io CRM, and post the summaries to your Slack channel. Upload your ICP docs and I'm ready to map your accounts."
+    "welcome_message": "Hey! I'm your Account Based Sales Researcher. Every day I'll deeply research target companies, enrich their firmographics, and map out their 5-person buying committees until I hit a daily goal of 15-16 fresh contacts. I write everything cleanly to the Show.io CRM and post the summaries to your Slack channel. Upload your ICP docs and I'm ready to map your accounts."
   },
   "skills": [
     {
